@@ -1,0 +1,1 @@
+#  Todo o código presente nesse repositório foi gerado comleatmente como auxílio de Inteligência Artificial. Estou deixando documentado apenas o ponto inicial do projeto, com testes e possibilidades. 
